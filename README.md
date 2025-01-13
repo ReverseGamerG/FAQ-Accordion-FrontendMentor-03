@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./.github/preview.png)
+![](./.GitHub/preview.png)
 
 
 ### Links

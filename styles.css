@@ -28,6 +28,7 @@ main{
   gap: 2rem;
   border-radius: 1rem;
   max-width: 37.5rem;
+  box-shadow: 0 2rem 56px rgba(80, 0, 118, 0.1);
 
   & header{
     display: flex;
